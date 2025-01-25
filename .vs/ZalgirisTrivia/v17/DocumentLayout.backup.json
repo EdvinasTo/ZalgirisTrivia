@@ -1,0 +1,603 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}|zalgiristrivia.client\\zalgiristrivia.client.esproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}|zalgiristrivia.client\\zalgiristrivia.client.esproj|solutionrelative:zalgiristrivia.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}|zalgiristrivia.client\\zalgiristrivia.client.esproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.client\\src\\leaderboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}|zalgiristrivia.client\\zalgiristrivia.client.esproj|solutionrelative:zalgiristrivia.client\\src\\leaderboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}|zalgiristrivia.client\\zalgiristrivia.client.esproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}|zalgiristrivia.client\\zalgiristrivia.client.esproj|solutionrelative:zalgiristrivia.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}|zalgiristrivia.client\\zalgiristrivia.client.esproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}|zalgiristrivia.client\\zalgiristrivia.client.esproj|solutionrelative:zalgiristrivia.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}|zalgiristrivia.client\\zalgiristrivia.client.esproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}|zalgiristrivia.client\\zalgiristrivia.client.esproj|solutionrelative:zalgiristrivia.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}|zalgiristrivia.client\\zalgiristrivia.client.esproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}|zalgiristrivia.client\\zalgiristrivia.client.esproj|solutionrelative:zalgiristrivia.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\data\\triviadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\data\\triviadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\utils\\databaseutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\utils\\databaseutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\models\\questiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\models\\questiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\models\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\models\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\utils\\calculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\utils\\calculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\utils\\inout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\utils\\inout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\migrations\\20250123161226_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\migrations\\20250123161226_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\migrations\\20250124124617_updatedsetup5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\migrations\\20250124124617_updatedsetup5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\migrations\\20250124125018_updatedsetup6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\migrations\\20250124125018_updatedsetup6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\migrations\\triviadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\migrations\\triviadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\migrations\\20250124093102_updatedsseetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\migrations\\20250124093102_updatedsseetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\migrations\\20250124094406_updatedsetup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\migrations\\20250124094406_updatedsetup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\migrations\\20250124103938_updatedsetup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\migrations\\20250124103938_updatedsetup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\migrations\\20250124114258_updatedsetup3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\migrations\\20250124114258_updatedsetup3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\migrations\\20250124120610_updatedsetup4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\migrations\\20250124120610_updatedsetup4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\views\\questions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\views\\questions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\edvin\\Desktop\\GitHub\\nepavykes\\BasketballTrivia\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\node_modules\\react-dom\\cjs\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zalgiristrivia.client\\node_modules\\react-dom\\cjs\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}|zalgiristrivia.client\\zalgiristrivia.client.esproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}|zalgiristrivia.client\\zalgiristrivia.client.esproj|solutionrelative:zalgiristrivia.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\edvin\\Desktop\\GitHub\\Trivia\\Trivia\\Models\\Answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\migrations\\20250124130802_updatedsetup8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\migrations\\20250124130802_updatedsetup8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|c:\\users\\edvin\\desktop\\github\\zalgiristrivia\\zalgiristrivia.server\\migrations\\20250124125441_updatedsetup7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC44A6-B719-4E28-BF6B-A28D6E049367}|ZalgirisTrivia.Server\\ZalgirisTrivia.Server.csproj|solutionrelative:zalgiristrivia.server\\migrations\\20250124125441_updatedsetup7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Leaderboard.jsx",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\src\\Leaderboard.jsx",
+              "RelativeDocumentMoniker": "zalgiristrivia.client\\src\\Leaderboard.jsx",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\src\\Leaderboard.jsx",
+              "RelativeToolTip": "zalgiristrivia.client\\src\\Leaderboard.jsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-23T11:45:18.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Models\\Question.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:26:44.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Submission.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Models\\Submission.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Models\\Submission.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Models\\Submission.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Models\\Submission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:08:26.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "zalgiristrivia.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\src\\App.jsx",
+              "RelativeToolTip": "zalgiristrivia.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T09:51:09.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "zalgiristrivia.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\src\\main.jsx",
+              "RelativeToolTip": "zalgiristrivia.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T09:51:21.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\index.html",
+              "RelativeDocumentMoniker": "zalgiristrivia.client\\index.html",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\index.html",
+              "RelativeToolTip": "zalgiristrivia.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-23T10:07:40.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\src\\App.css",
+              "RelativeDocumentMoniker": "zalgiristrivia.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\src\\App.css",
+              "RelativeToolTip": "zalgiristrivia.client\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T12:18:53.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\src\\index.css",
+              "RelativeDocumentMoniker": "zalgiristrivia.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\src\\index.css",
+              "RelativeToolTip": "zalgiristrivia.client\\src\\index.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T12:18:59.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseUtils.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Utils\\DatabaseUtils.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Utils\\DatabaseUtils.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Utils\\DatabaseUtils.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Utils\\DatabaseUtils.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:29:06.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Controllers\\QuestionsController.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:57:09.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TriviaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Data\\TriviaDbContext.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Data\\TriviaDbContext.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Data\\TriviaDbContext.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Data\\TriviaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:28:00.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Models\\Answer.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Models\\Answer.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Models\\Answer.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Models\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:12:36.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuestionType.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Models\\QuestionType.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Models\\QuestionType.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Models\\QuestionType.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Models\\QuestionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:43:23.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Models\\User.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:03:32.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Calculations.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Utils\\Calculations.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Utils\\Calculations.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Utils\\Calculations.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Utils\\Calculations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:17:18.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InOut.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Utils\\InOut.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Utils\\InOut.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Utils\\InOut.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Utils\\InOut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:44:40.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "questions.json",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Data\\questions.json",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Data\\questions.json",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Data\\questions.json",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Data\\questions.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T15:54:26.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Program.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:44:56.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250124124617_updatedsetup5.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124124617_updatedsetup5.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Migrations\\20250124124617_updatedsetup5.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124124617_updatedsetup5.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Migrations\\20250124124617_updatedsetup5.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:46:17.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250124130802_updatedsetup8.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124130802_updatedsetup8.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Migrations\\20250124130802_updatedsetup8.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124130802_updatedsetup8.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Migrations\\20250124130802_updatedsetup8.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:08:02.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250123161226_initialsetup.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250123161226_initialsetup.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Migrations\\20250123161226_initialsetup.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250123161226_initialsetup.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Migrations\\20250123161226_initialsetup.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAuwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:27:53.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250124125441_updatedsetup7.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124125441_updatedsetup7.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Migrations\\20250124125441_updatedsetup7.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124125441_updatedsetup7.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Migrations\\20250124125441_updatedsetup7.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:54:41.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TriviaDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\TriviaDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Migrations\\TriviaDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\TriviaDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Migrations\\TriviaDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAmwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:28:48.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250124125018_updatedsetup6.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124125018_updatedsetup6.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Migrations\\20250124125018_updatedsetup6.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124125018_updatedsetup6.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Migrations\\20250124125018_updatedsetup6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:50:18.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250124114258_updatedsetup3.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124114258_updatedsetup3.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Migrations\\20250124114258_updatedsetup3.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124114258_updatedsetup3.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Migrations\\20250124114258_updatedsetup3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:42:59.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250124103938_updatedsetup2.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124103938_updatedsetup2.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Migrations\\20250124103938_updatedsetup2.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124103938_updatedsetup2.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Migrations\\20250124103938_updatedsetup2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:39:38.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250124093102_updatedsseetup.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124093102_updatedsseetup.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Migrations\\20250124093102_updatedsseetup.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124093102_updatedsseetup.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Migrations\\20250124093102_updatedsseetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:31:02.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250124094406_updatedsetup1.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124094406_updatedsetup1.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Migrations\\20250124094406_updatedsetup1.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124094406_updatedsetup1.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Migrations\\20250124094406_updatedsetup1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:44:06.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250124120610_updatedsetup4.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124120610_updatedsetup4.cs",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Migrations\\20250124120610_updatedsetup4.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Migrations\\20250124120610_updatedsetup4.cs",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Migrations\\20250124120610_updatedsetup4.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:06:10.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\appsettings.json",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T11:54:19.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Views\\Questions\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Views\\Questions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Views\\Questions\\Index.cshtml",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Views\\Questions\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:58:54.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\nepavykes\\BasketballTrivia\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\nepavykes\\BasketballTrivia\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\nepavykes\\BasketballTrivia\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\nepavykes\\BasketballTrivia\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:54:47.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "react-dom.development.js",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "RelativeDocumentMoniker": "zalgiristrivia.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "RelativeToolTip": "zalgiristrivia.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "ViewState": "AgIAAAovAAAAAAAAAAArwBcvAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-22T20:50:00.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "zalgiristrivia.client\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\.vscode\\launch.json",
+              "RelativeToolTip": "zalgiristrivia.client\\.vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T13:41:24.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ZalgirisTrivia.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ZalgirisTrivia.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T11:54:48.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\edvin\\Desktop\\GitHub\\Trivia\\Trivia\\Models\\Answer.cs",
+              "RelativeDocumentMoniker": "..\\Trivia\\Trivia\\Models\\Answer.cs",
+              "ToolTip": "C:\\Users\\edvin\\Desktop\\GitHub\\Trivia\\Trivia\\Models\\Answer.cs",
+              "RelativeToolTip": "..\\Trivia\\Trivia\\Models\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:26:32.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

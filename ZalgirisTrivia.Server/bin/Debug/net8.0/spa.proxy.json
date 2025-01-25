@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:52471",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\ZalgirisTrivia.Server\\..\\zalgiristrivia.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

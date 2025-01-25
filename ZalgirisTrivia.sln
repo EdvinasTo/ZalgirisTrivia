@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZalgirisTrivia.Server", "ZalgirisTrivia.Server\ZalgirisTrivia.Server.csproj", "{B6EC44A6-B719-4E28-BF6B-A28D6E049367}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "zalgiristrivia.client", "zalgiristrivia.client\zalgiristrivia.client.esproj", "{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6EC44A6-B719-4E28-BF6B-A28D6E049367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6EC44A6-B719-4E28-BF6B-A28D6E049367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6EC44A6-B719-4E28-BF6B-A28D6E049367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6EC44A6-B719-4E28-BF6B-A28D6E049367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC80536-CD0B-4887-A3FA-8F2105E96AFA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

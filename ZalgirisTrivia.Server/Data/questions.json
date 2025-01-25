@@ -1,0 +1,72 @@
+﻿[
+  {
+    "Id": 1,
+    "Text": "What is the capital of Lithuania?",
+    "Type": "RadioButton",
+    "Options": [ "Vilnius", "Kaunas", "Riga" ],
+    "CorrectAnswer": [ "Vilnius" ]
+  },
+  {
+    "Id": 2,
+    "Text": "Which of the following are Lithuanian basketball players? (Select all that apply)",
+    "Type": "Checkbox",
+    "Options": [ "Domantas Sabonis", "Mantas Kalnietis", "Valdas Adamkus" ],
+    "CorrectAnswer": [ "Domantas Sabonis", "Mantas Kalnietis" ]
+  },
+  {
+    "Id": 3,
+    "Text": "Who is considered the most famous player in BC Žalgiris history?",
+    "Type": "RadioButton",
+    "Options": [ "Arvydas Sabonis", "Šarūnas Marčiulionis", "Jonas Valančiūnas", "Rimantas Kaukėnas" ],
+    "CorrectAnswer": ["Arvydas Sabonis"]
+  },
+  {
+    "Id": 4,
+    "Text": "Which of the following teams have BC Žalgiris defeated to win the EuroLeague? (Select all that apply)",
+    "Type": "Checkbox",
+    "Options": [ "Real Madrid", "CSKA Moscow", "Panathinaikos", "Barcelona" ],
+    "CorrectAnswer": [ "Real Madrid", "CSKA Moscow", "Panathinaikos" ]
+  },
+  {
+    "Id": 5,
+    "Text": "What year did BC Žalgiris win its first EuroLeague title?",
+    "Type": "Textbox",
+    "Options": [],
+    "CorrectAnswer": [ "1999" ]
+  },
+  {
+    "Id": 6,
+    "Text": "Who is the head coach of BC Žalgiris as of 2025?",
+    "Type": "RadioButton",
+    "Options": [ "Dainius Šuliauskas", "Sarunas Jasikevicius", "Andrea Trinchieri", "Martin Schiller" ],
+    "CorrectAnswer": [ "Andrea Trinchieri" ]
+  },
+  {
+    "Id": 7,
+    "Text": "Which players have won the EuroLeague MVP while playing for BC Žalgiris? (Select all that apply)",
+    "Type": "Checkbox",
+    "Options": [ "Arvydas Sabonis", "Šarūnas Marčiulionis", "Paulius Jankūnas", "Joffrey Lauvergne" ],
+    "CorrectAnswer": [ "Arvydas Sabonis", "Šarūnas Marčiulionis" ]
+  },
+  {
+    "Id": 8,
+    "Text": "What is the name of BC Žalgiris’ home arena?",
+    "Type": "Textbox",
+    "Options": [],
+    "CorrectAnswer": [ "Žalgiris arena" ]
+  },
+  {
+    "Id": 9,
+    "Text": "Who is the current highest Žalgiris player?",
+    "Type": "RadioButton",
+    "Options": [ "Arvydas Sabonis", "Sylvain Francisco", "Laurynas Birutis", "Domantas Sabonis" ],
+    "CorrectAnswer": [ "Laurynas Birutis" ]
+  },
+  {
+    "Id": 10,
+    "Text": "Who is the current smallest Žalgiris player?",
+    "Type": "RadioButton",
+    "Options": [ "Sylvain Francisco", "Laurynas Birutis", "Lukas Lekavičius", "Deividas Sirvydis" ],
+    "CorrectAnswer": [ "Lukas Lekavičius" ]
+  }
+]

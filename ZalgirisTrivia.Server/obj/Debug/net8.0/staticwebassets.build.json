@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "v+F0r2ek6Lxt+DHPfYOwGgZ+2MqKdyf8TmoVTgNV96k=",
+  "Source": "ZalgirisTrivia.Server",
+  "BasePath": "_content/ZalgirisTrivia.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\edvin\\Desktop\\GitHub\\ZalgirisTrivia\\zalgiristrivia.client\\zalgiristrivia.client.esproj",
+      "Version": 2,
+      "Source": "zalgiristrivia.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,6 @@
+@ZalgirisTrivia.Server_HostAddress = http://localhost:5244
+
+GET {{ZalgirisTrivia.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

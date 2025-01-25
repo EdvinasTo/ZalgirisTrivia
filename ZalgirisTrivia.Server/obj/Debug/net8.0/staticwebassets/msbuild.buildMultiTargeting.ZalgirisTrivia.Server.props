@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ZalgirisTrivia.Server.props" />
+</Project>
